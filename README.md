@@ -20,7 +20,8 @@ Sebagai panitia dari suatu  event, saya ingin  event yang kami selenggarakan dap
 ## Use case diagram 
 ![PSBO Jaya-Rev Use Case](https://user-images.githubusercontent.com/54407018/122007827-93bef380-cde2-11eb-8d8c-186eb94be0e0.jpg)
 ## Activity diagram 
-![PSBO Jaya-Rev Activity](https://user-images.githubusercontent.com/54407018/122008917-c0273f80-cde3-11eb-9c94-0dc6464f204b.jpg)
+![PSBO Jaya-Rev Activity (2)](https://user-images.githubusercontent.com/54407018/122009036-dfbe6800-cde3-11eb-8bc4-4f378c2912a6.jpg)
+![PSBO Jaya-Rev Activity (3)](https://user-images.githubusercontent.com/54407018/122009086-eea51a80-cde3-11eb-8198-c5968a5c47d8.jpg)
 ## Class diagram
 ![PSBO Jaya-Rev Class Diagram](https://user-images.githubusercontent.com/54407018/122008367-2bbcdd00-cde3-11eb-8798-26299e900013.jpg)
 ## Entity Relationship Diagram
