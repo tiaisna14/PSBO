@@ -35,7 +35,7 @@ Sebagai panitia dari suatu  event, saya ingin  event yang kami selenggarakan dap
 # Hasil implementasi 
 ## Screenshot sistem 
 
-# Saran untuk pengembangan selanjutnya
+# Saran
 
 # Developer dan job desc
 
