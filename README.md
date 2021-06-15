@@ -34,7 +34,6 @@ Sebagai panitia dari suatu  event, saya ingin  event yang kami selenggarakan dap
 
 # Hasil implementasi 
 ## Screenshot sistem 
-## Link aplikasi (jika sudah dideploy)
 
 # Saran untuk pengembangan selanjutnya
 
